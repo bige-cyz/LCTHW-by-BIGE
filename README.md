@@ -28,3 +28,5 @@ clean:
 it's about how to use Makefile to control the behavior of make
 - CFLAGS is about the flag of make.
 - clean is a diy command, it means you can diy command by editing Makefile and use `make` + `DiyCommandName`, such as clean in this Makefile.
+
+3. ex3.c
